@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<view>{{count}}</view>
+<button size="mini" bindtap="clickHandle">+</button>
